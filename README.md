@@ -1,0 +1,2 @@
+# 42295d7faa647274-dental-practice-content-manage
+Stop context-switching away from your editor to look things up. Start instant insights without breaking your focus.  Status bar integration gives you real-time feedback without opening panels. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Dental Practice Content Management And Publishing — fu
